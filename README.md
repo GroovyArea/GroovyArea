@@ -4,7 +4,7 @@ Blog 📝
 [[Spring Framework] Bean 등록에 대한 재고](https://sweeeetgoguma.tistory.com/entry/Bean-%EB%93%B1%EB%A1%9D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9E%AC%EA%B3%A0), 2024.10.12 <br/> 
 
 
-Summary  
+Experience  
 ---
 **2024.08 ~ Current** | `경력`  한국신용데이터(KCD) 서버 엔지니어  
 **2023.06 ~ 2024.08** | `경력`  페이히어 서버 엔지니어  
