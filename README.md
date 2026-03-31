@@ -27,5 +27,5 @@ Experience
 
 Contact
 ---
-**resume** : [resume](https://diligent-vanadium-9de.notion.site/Backend-Engineer-2fb104957edd4bd6aead26ab53551db4?pvs=4)  
+**resume** : [resume]([https://diligent-vanadium-9de.notion.site/Backend-Engineer-2fb104957edd4bd6aead26ab53551db4?pvs=4](https://diligent-vanadium-9de.notion.site/334edc44c954808589e3e2a087d176f8))  
 **email** : 106301a@gmail.com
