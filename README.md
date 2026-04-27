@@ -1,5 +1,6 @@
 Blog 📝  
 ---
+[[기술 과제] 비교 견적 문의 벤더 추천, Query방식에서 AI 유사도 검색 도입과 전환기](https://sweeeetgoguma.tistory.com/entry/%EA%B8%B0%EC%88%A0-%EA%B3%BC%EC%A0%9C-%EB%B9%84%EA%B5%90-%EA%B2%AC%EC%A0%81-%EB%AC%B8%EC%9D%98-%EB%B2%A4%EB%8D%94-%EC%B6%94%EC%B2%9C-Query%EB%B0%A9%EC%8B%9D%EC%97%90%EC%84%9C-AI-%EC%9C%A0%EC%82%AC%EB%8F%84-%EA%B2%80%EC%83%89-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%A0%84%ED%99%98%EA%B8%B0), 2026.04.19 <br/>
 [[기술 부채] Legacy 커뮤니티 프로젝트 표준화 및 비용 및 API Latency 개선기](https://sweeeetgoguma.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-3%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-CQRSmini-ver-%EB%8F%84%EC%9E%85%EA%B8%B0), 2025.11.23 <br/>
 [[시스템 설계] 3개월 간의 CQRS(mini ver) 도입기](https://sweeeetgoguma.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-3%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-CQRSmini-ver-%EB%8F%84%EC%9E%85%EA%B8%B0), 2025.06.22 <br/>
 [[Spring Framework] Bean 등록에 대한 재고 V2](https://sweeeetgoguma.tistory.com/entry/Spring-Framework-Bean-%EB%93%B1%EB%A1%9D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9E%AC%EA%B3%A0-V2), 2025.03.18 <br/>
